@@ -1,0 +1,12 @@
+{
+    "experimentalFeaturesEnabled": {
+        "extensibility": true
+    },
+    "extensions": {
+        "microsoftgraph": "br:mcr.microsoft.com/bicep/extensions/microsoftgraph/v1.0:0.1.8-preview",
+        "microsoftgraphbeta": "br:mcr.microsoft.com/bicep/extensions/microsoftgraph/beta:0.1.8-preview"
+    },
+    "formatting": {
+        "indentKind": "Tab"
+    }
+}
